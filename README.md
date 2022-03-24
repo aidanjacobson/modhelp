@@ -10,5 +10,4 @@
 - [What Spyglass Mod](what.md)
 - [Corn Mod](corn.md)
 - [Advertisements](paintings.md)
-- [Chicky Nuggy Mod](nugget.md)
 - [Other additions and modifications](additions.md)
