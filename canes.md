@@ -1,5 +1,3 @@
-[Back to home page](README.md)
-
 # Canes Mod
 The canes mod adds canes seeds, which can be found in various loot chests, and grown into functioning canes restaurants.
 

@@ -1,5 +1,3 @@
-[Back to home page](README.md)
-
 # Thunder Mod
 
 Summon a thunderstorm on demand.

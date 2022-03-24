@@ -1,5 +1,3 @@
-[Back to home page](README.md)
-
 # Resource Pack Overview
 
 The minecraft server resource pack contains many additions to items. They are enabled by default; however, some textures and resources can be reverted to the original by loading the given resource packs.

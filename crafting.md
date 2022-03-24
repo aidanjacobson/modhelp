@@ -1,5 +1,3 @@
-[Back to home page](README.md)
-
 # New Crafting Recipes
 
 ## Green Dye

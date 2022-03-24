@@ -1,5 +1,3 @@
-[Back to home page](README.md)
-
 # Other additions and modifications
 
 - A live map is available [here](todo). You can view the current locations of all players as well as interact with the game chat.
