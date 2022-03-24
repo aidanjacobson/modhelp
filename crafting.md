@@ -24,4 +24,8 @@ Natural extension of the shulker shell recipe. Put a chest in the center and fil
 
 Combine a player head with a glistering melon. (See [Villager Spawn Egg Mod](villager.md))
 
+## Pokeball
+
+See [pokeball mod](pokeballs.md).
+
 [Back to home page](README.md)
