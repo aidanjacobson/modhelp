@@ -4,7 +4,6 @@
 - [Sex](sex.md)
 - [Shit](shit.md)
 - [New Crafting Recipes](crafting.md)
-- [Thunderstorm](thunder.md)
 - [AFK](afk.md)
 - [Villager Spawn Egg](villager.md)
 - [What Spyglass Mod](what.md)
