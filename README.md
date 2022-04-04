@@ -1,7 +1,8 @@
 # Minecraft Server Help
 ## Select the topic you want to see information on:
-- [Canes](canes.md)
-- [Sex](sex.md)
+- [Canes Mod](canes.md)
+- [Sex and Condom Mod](sex.md)
+- [Tax Mod](taxes.md)
 - [Shit](shit.md)
 - [New Crafting Recipes](crafting.md)
 - [AFK](afk.md)
